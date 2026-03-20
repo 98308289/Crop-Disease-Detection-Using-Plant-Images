@@ -27,7 +27,7 @@ This repository contains a Convolutional Neural Network (CNN) model trained to d
 1. Clone the repository
 
 
-git clone https://github.com/Kavay2005/ULNN_project.git
+git clone https://github.com/SanchitChugh/Crop-Disease-Detection-Using-Plant-Images.git
 cd your-repo-name
 
 2. Install the dependencies
